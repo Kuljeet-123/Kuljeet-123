@@ -139,7 +139,7 @@ var developements = {
 ## 🔥 Streak stats
 
 <p align="center">
-  <a href="https://github.com/Kuljeet-123/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kuljeet-123's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kuljeet-123&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
