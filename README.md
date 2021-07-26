@@ -14,6 +14,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/kuljeet-123?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kuljeet-123.github.io/)](https://kuljeet-123.github.io/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Kuljeet-123.visitor-badge)
+[![GitHub User's stars](https://img.shields.io/github/stars/Kuljeet-123?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/Kuljeet-123?tab=stars)
 
 <br />
 
