@@ -12,7 +12,7 @@
  [![Twitter Follow](https://img.shields.io/twitter/follow/Kuljeet_123?label=Follow)](https://twitter.com/intent/follow?screen_name=Kuljeet_123)
 [![Linkedin: kuljeet](https://img.shields.io/badge/kuljeet-singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kuljeet-singh-21836517a/)](https://www.linkedin.com/in/kuljeet-singh-21836517a/)
 ![GitHub followers](https://img.shields.io/github/followers/kuljeet-123?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kuljeet-123.github.io/)](https://kuljeet-123.github.io/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kuljeet-portfolio.netlify.app/)](https://kuljeet-portfolio.netlify.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=Kuljeet-123.visitor-badge)
 [![GitHub User's stars](https://img.shields.io/github/stars/Kuljeet-123?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/Kuljeet-123?tab=stars)
 
