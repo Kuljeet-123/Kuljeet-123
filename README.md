@@ -135,16 +135,22 @@ var developements = {
   <summary>⭐ Starred Repository</summary>
   <br/>
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kuljeet-123&repo=Money-Manager&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Money-Manager)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kuljeet-123&repo=Money-Manager&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Money-Manager)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kuljeet-123&repo=Gmail-Using-PHP&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Gmail-Using-PHP)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kuljeet-123&repo=Tic-Tac-Toe&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Tic-Tac-Toe)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kuljeet-123&repo=Simon-Game&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Simon-Game)
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kuljeet-123&repo=Gmail-Using-PHP&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Gmail-Using-PHP)
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kuljeet-123&repo=Tic-Tac-Toe&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Tic-Tac-Toe)
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kuljeet-123&repo=Simon-Game&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Simon-Game)
-  
-  
 </details>
+
+<!-- <details>
+  <summary>💻 This Week, I spent time on </summary>
+  <br/>
+  
+  <p align="center"><img align="center" 
+                         src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Kuljeet-123
+    123&hide_title=true&hide_border=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="kuljeet's stat" /></p>
+  
+</details> -->
 
 
 
