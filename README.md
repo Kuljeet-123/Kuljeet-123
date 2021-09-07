@@ -123,8 +123,6 @@ var developements = {
 </p>
 
 ## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -132,6 +130,20 @@ var developements = {
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kuljeet-123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuljeet-123&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+<details>
+  <summary>⭐ Starred Repository</summary>
+  <br/>
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kuljeet-123&repo=Money-Manager&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Money-Manager)
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kuljeet-123&repo=Gmail-Using-PHP&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Gmail-Using-PHP)
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kuljeet-123&repo=Tic-Tac-Toe&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Tic-Tac-Toe)
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kuljeet-123&repo=Simon-Game&show_owner=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/Kuljeet-123/Simon-Game)
+  
+  
 </details>
 
 
